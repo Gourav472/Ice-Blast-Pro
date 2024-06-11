@@ -15,7 +15,7 @@ const Mail = () => {
       <section>
         <div className=' container translate_box'>
           <div className='d-flex align-items-center flex-column'>
-            <div className=' mail-box w-100 d-flex flex-column align-items-center'>
+            <div className=' mail-box w-100 d-flex flex-column align-items-center'data-aos="fade-down">
               <h3 className=' mb-0 white ff-cond fw-700 text-48 lh-57 text-center'>Join Our Mailing List</h3>
               <p className=' mb-0 pt-2 white op-90 ff-acumin fw-400 text-16 lh-24 text-center'>Get news, videos and deals straight to your inbox.</p>
               <div className='email-input-box w-100 d-flex justify-content-between'>

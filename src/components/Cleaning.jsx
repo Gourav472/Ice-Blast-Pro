@@ -10,7 +10,7 @@ const Cleaning = () => {
             <section className='cleaning-bg' id='about'>
                 <div className=' container'>
                     <div className="row flex-column-reverse flex-lg-row py-cleaning">
-                        <div className="col-lg-6 d-flex justify-content-center justify-content-lg-end mt-5 mt-lg-0">
+                        <div className="col-lg-6 d-flex justify-content-center justify-content-lg-end mt-5 mt-lg-0"  data-aos="fade-right">
                             <div className=' d-flex flex-column '>
                                 <h2 className=' mb-0 black ff-cond fw-700 text-48 lh-57 max-future text-center text-lg-start'>The Future of Car Cleaning</h2>
                                 <p className=' mb-0 black op-70 ff-acumin fw-400 text-16 lh-24 max-558 pt-13 text-center text-lg-start'>No need to be overwhelmed by the thought of harsh chemicals and abrasive cleaning methods. Our dry ice blasting leaves your car spotless, reaching where no cloth can.</p>
@@ -44,7 +44,7 @@ const Cleaning = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end ">
+                        <div className="col-lg-6 d-flex align-items-center justify-content-center justify-content-lg-end "  data-aos="fade-left">
                             <div className=' position-relative'>
                                 <img className='max-cleaning-img' src={img1} alt="image-1" />
                                 <div className=' play-btn position-absolute cp d-flex justify-content-center align-items-center'>
@@ -53,9 +53,9 @@ const Cleaning = () => {
                             </div>
                         </div>
                     </div>
-                    <div className=' d-flex flex-column align-items-center gap-20'>
-                        <p className=' mb-0 black ff-acumin-bold fw-700 text-16 lh-24'>Like What You See? Get an Instant Quote</p>
-                        <div className=' z-1'>
+                    <div className=' d-flex flex-column align-items-center gap-20' >
+                        <p className=' mb-0 black ff-acumin-bold fw-700 text-16 lh-24'  data-aos="fade-up">Like What You See? Get an Instant Quote</p>
+                        <div className=' z-1'data-aos="fade-up">
                             <Commonbtn name="Get Instant Quote" />
                         </div>
                     </div>

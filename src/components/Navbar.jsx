@@ -34,19 +34,19 @@ const Navbar = () => {
                 <div className='  d-flex align-items-center justify-content-between  px-header-links '>
                     <div className=' d-flex align-items-center gap-10'>
                         <img className='cp' src={location} alt="svg" />
-                        <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24'>Crawley Mill Industrial Estate, Witney, Oxfordshire</p>
+                        <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24 footer-hover'>Crawley Mill Industrial Estate, Witney, Oxfordshire</p>
                     </div>
                     <div className=' d-flex align-items-center gap-10'>
                         <a href="mailto:book@dryiceblastingpro.co.uk">   <img className='cp' src={message} alt="svg2" /></a>
-                        <a href="mailto:book@dryiceblastingpro.co.uk"> <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24'>book@dryiceblastingpro.co.uk</p></a>
+                        <a href="mailto:book@dryiceblastingpro.co.uk"> <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24 footer-hover'>book@dryiceblastingpro.co.uk</p></a>
                     </div>
                     <div className=' d-flex align-items-center gap-10'>
                         <a href="tel:01865123456">  <img className='cp' src={phon} alt="svg3" /></a>
-                        <a href="tel:01865123456"><p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24'>01865123456</p></a>
+                        <a href="tel:01865123456"><p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24 footer-hover'>01865123456</p></a>
                     </div>
                     <div className=' d-flex align-items-center gap-10'>
                         <img className='cp' src={time} alt="svg4" />
-                        <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24'>Mon - Fri: 9am to 5pm</p>
+                        <p className=' mb-0 white op-70 ff-acumin fw-400 text-16 lh-24 footer-hover'>Mon - Fri: 9am to 5pm</p>
                     </div>
                 </div>
 

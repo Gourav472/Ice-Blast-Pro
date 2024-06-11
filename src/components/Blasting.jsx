@@ -9,9 +9,9 @@ const Blasting = () => {
         <>
             <section id='service' >
                 <div className="container">
-                    <h3 className=' mb-0 black fw-700 text-48 lh-27 ff-cond pt-blasting text-center'>Why Choose Dry Ice Blasting for Your Car?</h3>
+                    <h3 className=' mb-0 black fw-700 text-48 lh-27 ff-cond pt-blasting text-center'data-aos="flip-down">Why Choose Dry Ice Blasting for Your Car?</h3>
                     <div className="row flex-column-reverse flex-lg-row py-blasting">
-                        <div className="col-12 mt-5 mt-lg-0 col-lg-6 d-flex justify-content-center justify-content-lg-start align-items-lg-center">
+                        <div className="col-12 mt-5 mt-lg-0 col-lg-6 d-flex justify-content-center justify-content-lg-start align-items-lg-center"data-aos="fade-up-right">
                             <div className=' d-flex flex-column  gap-28'>
                                 <div className=' d-flex align-items-center gap-12'>
                                     <img src={blast1} alt="svg1" />
@@ -47,7 +47,7 @@ const Blasting = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-12 col-lg-6 d-flex justify-content-center justify-content-lg-end">
+                        <div className="col-12 col-lg-6 d-flex justify-content-center justify-content-lg-end"data-aos="fade-up-left">
                             <img className=' w-100 max-blast' src={blastimg} alt="car" />
                         </div>
                     </div>

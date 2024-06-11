@@ -7,10 +7,10 @@ const Faqs = () => {
             <section className='py-faq' id='faq'>
                 <div className=' container'>
                     <div className=' d-flex align-items-center flex-column'>
-                        <h3 className=' mb-0 black fw-700 ff-acumin-bold text-48 lh-57 text-center'>Still Unsure? Check Out These FAQs</h3>
+                        <h3 className=' mb-0 black fw-700 ff-acumin-bold text-48 lh-57 text-center'data-aos="fade-right">Still Unsure? Check Out These FAQs</h3>
                         <div className=' pt-4 pt-md-5 max-1140 mx-auto w-100'>
                             <div class="accordion accordion-flush d-flex flex-column gap-accordian" id="accordionFlushExample">
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-left">
                                     <h2 class="accordion-header" id="flush-headingOne">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>What types of vehicles are best suited for dry ice blasting?</span>
@@ -20,7 +20,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-right">
                                     <h2 class="accordion-header" id="flush-headingtwo">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo" aria-expanded="false" aria-controls="flush-collapsetwo">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>How often should I use dry ice blasting for optimal vehicle maintenance?</span>
@@ -30,7 +30,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-left">
                                     <h2 class="accordion-header" id="flush-headingthree">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsethree" aria-expanded="false" aria-controls="flush-collapsethree">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>Can dry ice blasting be used on vehicle interiors?</span>
@@ -40,7 +40,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-right">
                                     <h2 class="accordion-header" id="flush-headingfour">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefour" aria-expanded="false" aria-controls="flush-collapsefour">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>What makes dry ice blasting more effective than pressure washing or sandblasting?</span>
@@ -50,7 +50,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-left">
                                     <h2 class="accordion-header" id="flush-headingfive">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefive" aria-expanded="false" aria-controls="flush-collapsefive">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>Is there any preparation required on my part before a dry ice blasting session?</span>
@@ -60,7 +60,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-right">
                                     <h2 class="accordion-header" id="flush-headingsix">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>How long does a typical dry ice blasting session take?</span>
@@ -70,7 +70,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-left">
                                     <h2 class="accordion-header" id="flush-headingseven">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseseven" aria-expanded="false" aria-controls="flush-collapseseven">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>Can dry ice blasting improve my vehicle’s resale value?</span>
@@ -80,7 +80,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-right">
                                     <h2 class="accordion-header" id="flush-headingeight">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseeight" aria-expanded="false" aria-controls="flush-collapseeight">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>Will dry ice blasting remove existing wax or sealant from my car’s paint?</span>
@@ -90,7 +90,7 @@ const Faqs = () => {
                                         <div class="accordion-body"><span className='ff-acumin fw-400 text-16 lh-24 white op-80 max-1003'>Dry ice blasting is effective for cleaning a wide range of surfaces, including aircraft, automotive components, railway equipment, marine vessels, industrial machinery, food processing equipment, electrical components, and historic structures. The method is versatile, non-abrasive, and environmentally friendly, making it suitable for diverse applications across various industries.</span></div>
                                     </div>
                                 </div>
-                                <div class="accordion-item">
+                                <div class="accordion-item"data-aos="fade-left">
                                     <h2 class="accordion-header" id="flush-headingnine">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsenine" aria-expanded="false" aria-controls="flush-collapsenine">
                                             <span className=' ff-acumin-bold fw-700 text-24 lh-33 '>Are there any special care instructions to follow after a dry ice blasting session?</span>
@@ -102,7 +102,7 @@ const Faqs = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className=' question-box d-flex flex-column w-100 max-1140 mt-20 '>
+                        <div className=' question-box d-flex flex-column w-100 max-1140 mt-20 'data-aos="fade-up">
                             <p className=' mb-0 black ff-acumin-bold fw-700 text-24 lh-33'>Have a Different Question? Contact Us Today</p>
                             <div className=' typebox w-100 h-100 mt-18'>
                                 <textarea className=' h-100 w-100 input-type' placeholder='Type something...'></textarea>
