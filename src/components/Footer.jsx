@@ -92,7 +92,7 @@ const Footer = () => {
                                 <p className=' mb-1 white ff-acumin-bold fw-700 text-18 lh-27 '>Follow us</p>
                                 <div className=' d-flex gap-12 align-items-baseline footer-logo'>
                                     <div className=' footer-box d-flex align-items-center justify-content-center cp'>
-                                        <a href="https://www.instagram.com/" target='_blank'><img className='mb-1' src={footer1} alt="instagram" /></a>
+                                        <a href="https://www.instagram.com/" target='_blank'><img src={footer1} alt="instagram" /></a>
                                     </div>
                                     <a href="https://www.instagram.com/" target='_blank' className='footer-hover op-70 white ff-acumin fw-400 text-16 lh-25'>Instagram</a>
                                 </div>
