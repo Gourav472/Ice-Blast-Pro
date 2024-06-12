@@ -794,8 +794,6 @@
     max-width: 323px;
   }
 
-
-
   .py-faq {
     padding-top: 45px;
     padding-bottom: 64px;
@@ -866,7 +864,7 @@
   }
 
   .py-header {
-    padding-bottom: 88px;
+    padding-bottom: 130px;
   }
 
   .pt-heading-1 {
@@ -889,6 +887,7 @@
 }
 
 @media (min-width:992px) {
+  
   .position-prevbtn {
     left: -3%;
     bottom: 50%;
@@ -949,6 +948,9 @@
 }
 
 @media (min-width:1200px) {
+  .py-header{
+    padding-bottom: 237px;
+  }
   .position-prevbtn {
     left: -3%;
     top: 50%;
@@ -963,9 +965,7 @@
     width: 577px;
   }
 
-  .header-height {
-    height: 100vh;
-  }
+
 
   .max-cleaning-img {
     width: 558px;
