@@ -10,8 +10,6 @@ import simg3 from '../assets/images/swiper-img3.webp'
 import simg4 from '../assets/images/swiper-img4.webp'
 import simg5 from '../assets/images/swiper-img5.webp'
 const Work = () => {
-
-
     return (
         <>
             <section className=' bg-orange ' id='blog'>

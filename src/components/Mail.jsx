@@ -31,7 +31,7 @@ const Mail = () => {
                 <div className=' cp check-box d-flex align-items-center justify-content-center' onClick={handlecheck}>
                   <img className={`${check ? "d-block" : "d-none"}`} src={checkbox} alt="yellow-tick" />
                 </div>
-                <p className=' mb-0 op-90 ff-acumin fw-400 white text-14 lh-14 text-center'>I consent to receive emails & confirm I have read the privacy policy.</p>
+                <p className=' mb-0 op-90 ff-acumin fw-400 white text-14 lh-14 text-center'>I consent to receive emails & confirm I have read the <span className=' fw-700 ff-acumin-bold'>privacy policy.</span></p>
               </div>
             </div>
           </div>
